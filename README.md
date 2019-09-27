@@ -4,4 +4,4 @@
 - Im Ordner nachmittags sind die Aufgaben, die ich nachmittags vorgerechnet habe.
 - Im Ordner snake ist ein kleines grafisches Snake-Spiel, dass ich nebenbei programmiert habe.
 
-Dieses Projekt ist für alle frei verfügbar ohne Angaben dieses Projekt verlinkt oder ich (Alexander Kampf) erwähnt werden muss.
+Dieses Projekt ist für alle frei verfügbar, ohne dass zu diesem Projekt verlinkt werden muss oder ich (Alexander Kampf) erwähnt werden muss.
