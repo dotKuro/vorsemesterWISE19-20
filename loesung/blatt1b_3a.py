@@ -6,7 +6,7 @@
 # soll das erste Zeichen enstehen.
 
 # Importiere die Anzahl an verschiedenen Charcodes.
-from blatt1b_3a_hilfe import CHAR_CODE_COUNT
+from blatt1b_3_hilfe import CHAR_CODE_COUNT
 
 correct_key = False
 
